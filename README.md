@@ -1,3 +1,7 @@
-## Hi, I'm Justin 👋
+### Justin Lim
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinlim00&show_icons=true)
+Building iOS apps and experimenting with product ideas.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=justinlim00&show_icons=true)
+
+Swift • SwiftUI • Node.js • Python
